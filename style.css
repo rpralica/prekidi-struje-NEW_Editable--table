@@ -1,0 +1,14 @@
+td, tr,th {
+    border: 3px solid green;
+    
+  }
+
+ #result{
+  font-weight: bold;
+ }
+ 
+ .center-label{
+  margin-left:35%
+ }
+
+ 
